@@ -8,7 +8,7 @@
     <dc:source>http://books.google.com/books?id=8BoZxi-JM0AC&amp;oe=UTF-8</dc:source>
     <dc:creator>August Strindberg</dc:creator>
     <dc:contributor>University of Michigan</dc:contributor>
-    <dc:description>Book digitized by Google from the library of University of Michigan and uploaded to the Internet Archive by user tpb.</dc:description>
+    <dc:description>Book digitized by Google from the library of University of Michigan. Uploaded to the Internet Archive by user tpb. Edited as epub by Joost de Vries</dc:description>
     <dc:language>en</dc:language>
     <meta content="0.7.2" name="Sigil version" />
     <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2013-06-16</dc:date>
@@ -17,15 +17,8 @@
     <item href="Styles/stylesheet.css" id="css" media-type="text/css" />
     <item href="Images/leaf-image0000.jpg" id="leaf-image0000" media-type="image/jpeg" />
     <item href="Text/leaf0000.html" id="leaf0000" media-type="application/xhtml+xml" />
-    <item href="Images/leaf-image0001.jpg" id="leaf-image0001" media-type="image/jpeg" />
-    <item href="Images/leaf-image0002.jpg" id="leaf-image0002" media-type="image/jpeg" />
-    <item href="Images/leaf-image0003.jpg" id="leaf-image0003" media-type="image/jpeg" />
-    <item href="Images/leaf-image0004.jpg" id="leaf-image0004" media-type="image/jpeg" />
-    <item href="Images/leaf-image0005.jpg" id="leaf-image0005" media-type="image/jpeg" />
-    <item href="Images/leaf-image0006.jpg" id="leaf-image0006" media-type="image/jpeg" />
     <item href="Images/leaf-image0007.jpg" id="leaf-image0007" media-type="image/jpeg" />
     <item href="Text/leaf0007.html" id="leaf0007" media-type="application/xhtml+xml" />
-    <item href="Images/leaf-image0008.jpg" id="leaf-image0008" media-type="image/jpeg" />
     <item href="Images/leaf-image0009.jpg" id="leaf-image0009" media-type="image/jpeg" />
     <item href="Text/leaf0009.html" id="leaf0009" media-type="application/xhtml+xml" />
     <item href="Text/part0000.html" id="part0000" media-type="application/xhtml+xml" />
